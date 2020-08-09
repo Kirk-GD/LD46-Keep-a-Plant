@@ -5,11 +5,6 @@ using UnityEngine;
 public class HelpEarthRot : MonoBehaviour
 {
     float speed = 13f;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()
